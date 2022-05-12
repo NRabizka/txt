@@ -31,7 +31,7 @@ preferences:
 	6) HTTP
 	7) Android_Studio                 
 
-8) Сделать коммит в одну строку: git add .; git commit -m "text" --> git push
+8) Сделать коммит в одну строку: git add .| git commit -m "text" | git push
 9) Создать файл bug_report.txt: Add file --> Creat new file --> commit new file --> git pull
 10) Модифицировать файл bug_report.txt -->добавить изменения --> Commit changes
 11) Синхронизировать: git add bug_report.txt
