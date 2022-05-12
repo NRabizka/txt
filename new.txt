@@ -1,2 +1,8 @@
 txt
 
+	Name - Nastassia,
+	Lastname - Rabizo,
+	Age - 38,
+	Children - two,
+	pet - cat Gera
+	Salary - 400$
