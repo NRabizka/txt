@@ -1,0 +1,7 @@
+preferences:
+	Movie - "Illusion of deception",
+        Series - "Outlander",
+        Favorite food - Pizza,
+	Season - Summer,
+	Country - USA/NY 
+	

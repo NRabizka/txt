@@ -1,0 +1,8 @@
+sklls:
+1) Terminal
+2) CitBash
+3) Function
+4) Postman
+5) SQL
+6) HTTP
+7) Android_Studio
