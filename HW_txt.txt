@@ -1,0 +1,39 @@
+HW_txt
+
+1) Создать внешний репозиторий: Repositories--> new--> txt--> Creste repository
+2) Клонировать репозиторий XML на локальный компьютер: git clone https://github.com/NRabizka/txt.git
+3) Создать файл “new.txt”: vim new.txt --> git add new.txt --> git commit -m "create new.txt" -->git push
+4) Отредактировать содержание файла “new.txt”: vim new.txt
+	Name - Nastassia,
+        Lastname - Rabizo,
+        Age - 38,
+        Children - two,
+        pet - cat Gera
+	Salary - 400$
+5) Отправить изменения: git add new.txt
+			git commit -am "summary"
+			git push
+6) Создать файл preferences.txt --> vim preferences.txt
+preferences:
+        Movie - "Illusion of deception",
+        Series - "Outlander",
+        Favorite food - Pizza,
+        Season - Summer,
+        Country - USA/NY
+
+7) Создать файл sklls.txt --> vim sklls.txt
+	sklls:
+	1) Terminal
+	2) CitBash
+	3) Function
+	4) Postman
+	5) SQL
+	6) HTTP
+	7) Android_Studio                 
+
+8) Сделать коммит в одну строку: git add .; git commit -m "text" --> git push
+9) Создать файл bug_report.txt: Add file --> Creat new file --> commit new file --> git pull
+10) Модифицировать файл bug_report.txt -->добавить изменения --> Commit changes
+11) Синхронизировать: git add bug_report.txt
+                      git commit -am "Priority: P1"
+                      git pull --> git push
